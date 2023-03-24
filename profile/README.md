@@ -1,4 +1,4 @@
-## Equipe: Da Vinci Codes 👋
+## Equipe: Da Vinci Codes 📚
 
 Time formado para realizar os APIs (Aprendizagem por Projetos Integradores) da FATEC Profº Francisco de Moura (Jacareí, SP).
 
