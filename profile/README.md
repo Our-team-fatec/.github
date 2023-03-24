@@ -10,7 +10,7 @@ Time formado para realizar os APIs (Aprendizagem por Projetos Integradores) da F
 
 </div>
 
-## Integrantes da equipe e seus cargos em cada projeto
+## Integrantes da equipe e seus cargos
 
 <div align="center">
 
