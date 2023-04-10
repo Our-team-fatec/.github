@@ -34,6 +34,8 @@ Time formado para realizar os APIs (Aprendizagem por Projetos Integradores) da F
  Project video Figma: https://drive.google.com/file/d/1TMVT2nfUFfslZZY7b0FvGf46XYCuURsE/view
  
  Link apresentação canvas sprint 1: https://www.canva.com/design/DAFfdnFwYAk/9Q1J9Q8bDL16iGqTR21eCw/view?utm_content=DAFfdnFwYAk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
+ 
+ Link Burndown: https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184
 <!--
 
 **Here are some ideas to get you started:**
