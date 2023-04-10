@@ -31,7 +31,7 @@ Time formado para realizar os APIs (Aprendizagem por Projetos Integradores) da F
 ## Links Sprints:
  Link Figma Sprint1: https://www.figma.com/file/5Y1rDkJgN6eDZjF1CXkYpD/Experts-Treinamentos?t=IfTecud3dwPmwPve-1
  
- Project Figma: https://drive.google.com/file/d/1TMVT2nfUFfslZZY7b0FvGf46XYCuURsE/view
+ Project video Figma: https://drive.google.com/file/d/1TMVT2nfUFfslZZY7b0FvGf46XYCuURsE/view
 <!--
 
 **Here are some ideas to get you started:**
