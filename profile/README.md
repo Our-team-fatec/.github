@@ -1,6 +1,22 @@
-## Equipe: Da Vinci Codes 📚
+<h1 align="center">  Expert Treinamentos
 
-Time formado para realizar os APIs (Aprendizagem por Projetos Integradores) da FATEC Profº Francisco de Moura (Jacareí, SP).
+<span id="topo">
+<p align="center">
+    <a href="#sobre">Sobre</a>  |  
+    <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
+    <a href="#tecnologias">Tecnologias</a>  |  
+    <a href="#equipe">Equipe</a>
+</p>
+   
+<span id="sobre">
+
+## :bookmark_tabs: Sobre o projeto
+Nos foi apresentado um desafio pelo cliente Antônio Egydio, para desenvolvimento de um sistema web que indique todos os processos e artefatos da metodologia ágil (Srum), para que todos os seus colaboradores entendam e realizem o Scrum corretamente e de maneira padronizada.
+
+
+> _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
+
+:pushpin: Status do Projeto: Em Andamento
 
 <div align="center">
 
