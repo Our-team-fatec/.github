@@ -18,7 +18,13 @@ Nos foi apresentado um desafio pelo cliente Antônio Egydio, para desenvolviment
 
 :pushpin: Status do Projeto: Em Andamento
 
-
+### 🏁 Entregas de Sprints
+Previsão de entrega das Sprints e relatótios:
+| Sprint | Previsão de entrega | Status           | Histórico |
+|:--:|:----------:|:-------------------|:-------------------------------------------------:|
+| 01 | 10/04/2023 | ✔️ Concluída    | [ver relatório](#) |
+| 02 | 08/05/2023 | :wrench: Iniciado | [ver relatório](#) |
+| 03 | 07/06/2023 | :x: Não Iniciado | [ver relatório](#) |
 <span id="equipe">
 
 ## :busts_in_silhouette: Equipe
