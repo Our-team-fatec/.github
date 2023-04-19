@@ -71,8 +71,7 @@ Previsão de entrega das Sprints e relatótios:
 
     Descrição 1° sprint: 
     https://onedrive.live.com/edit.aspx?resid=F6DA90A2DDB20FAB!41718&ithint=file%2cdocx&authkey=!AFOtfhcsNj_V8bQ
-
-    <!--
+<!--
 
 **Here are some ideas to get you started:**
 
