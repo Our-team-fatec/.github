@@ -61,15 +61,16 @@ Previsão de entrega das Sprints e relatótios:
 | Eu como cliente necessito do conteúdo organizado e estruturado, para meus usuário terem um bom conteúdo | Organização do Conteúdo | 1.4 |
 
 ## Links Sprints:
- Link Figma Sprint1: https://www.figma.com/file/5Y1rDkJgN6eDZjF1CXkYpD/Experts-Treinamentos?t=IfTecud3dwPmwPve-1
+ Figma Sprint1: https://www.figma.com/file/5Y1rDkJgN6eDZjF1CXkYpD/Experts-Treinamentos?t=IfTecud3dwPmwPve-1
  
  Project video Figma: https://drive.google.com/file/d/1TMVT2nfUFfslZZY7b0FvGf46XYCuURsE/view
  
- Link apresentação canvas sprint 1: https://www.canva.com/design/DAFfdnFwYAk/9Q1J9Q8bDL16iGqTR21eCw/view?utm_content=DAFfdnFwYAk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
+ Apresentação canvas sprint 1: https://www.canva.com/design/DAFfdnFwYAk/9Q1J9Q8bDL16iGqTR21eCw/view?utm_content=DAFfdnFwYAk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
  
- Link Burndown: https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184
+ Burndown: https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184
 
-Link Descrição 1° sprint: https://onedrive.live.com/edit.aspx?resid=F6DA90A2DDB20FAB!41718&ithint=file%2cdocx&authkey=!AFOtfhcsNj_V8bQ
+Descrição 1° sprint:
+    https://onedrive.live.com/edit.aspx?resid=F6DA90A2DDB20FAB!41718&ithint=file%2cdocx&authkey=!AFOtfhcsNj_V8bQ
 <!--
 
 **Here are some ideas to get you started:**
