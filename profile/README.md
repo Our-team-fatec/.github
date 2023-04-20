@@ -19,7 +19,7 @@ Nos foi apresentado um desafio pelo cliente Antônio Egydio, para desenvolviment
 :pushpin: Status do Projeto: Em Andamento
 
 ## Objetivo do Projeto:
-    Com a finalidade de apresentar o Scrum de maneira simples e intuitiva vamos elaborar um modelo a ser seguido, com explicações e interatividades para nossos alunos.
+<p>Com a finalidade de apresentar o Scrum de maneira simples e intuitiva vamos elaborar um modelo a ser seguido, com explicações e interatividades para nossos alunos.</p> 
     
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatótios:
