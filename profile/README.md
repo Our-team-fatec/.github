@@ -60,6 +60,12 @@ Previsão de entrega das Sprints e relatótios:
 | Eu como cliente necessito da representação do layout do site (pelo Figma) para acompanhar o desenvolvimento. | Cricação do layout | 1.3 |
 | Eu como cliente necessito do conteúdo organizado e estruturado, para meus usuário terem um bom conteúdo | Organização do Conteúdo | 1.4 |
 
+
+
+<span id="ferramentas">
+
+## Ferramentas
+
 ## Links Sprints:
  Figma Sprint1: https://www.figma.com/file/5Y1rDkJgN6eDZjF1CXkYpD/Experts-Treinamentos?t=IfTecud3dwPmwPve-1
  
