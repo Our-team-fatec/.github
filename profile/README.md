@@ -11,13 +11,16 @@
 <span id="sobre">
 
 ## :bookmark_tabs: Sobre o projeto
-Nos foi apresentado um desafio pelo cliente Antônio Egydio, para desenvolvimento de um sistema web que indique todos os processos e artefatos da metodologia ágil (Srum), para que todos os seus colaboradores entendam e realizem o Scrum corretamente e de maneira padronizada.
+Nos foi apresentado um desafio pelo cliente Antônio Egydio, para desenvolvimento de um sistema web que indique todos os processos e artefatos da metodologia ágil (Srum), a fim de que todos os seus colaboradores entendam e realizem o Scrum corretamente e de maneira padronizada.
 
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
 
 :pushpin: Status do Projeto: Em Andamento
 
+## Objetivo do Projeto:
+    Com a finalidade de apresentar o Scrum de maneira simples e intuitiva vamos elaborar um modelo a ser seguido, com explicações e interatividades para nossos alunos.
+    
 ### 🏁 Entregas de Sprints
 Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
@@ -62,9 +65,9 @@ Previsão de entrega das Sprints e relatótios:
 
 
 
-<span id="ferramentas">
+<span id="tecnologias">
 
-## Ferramentas
+## Tecnologias
 
 ## Contato:
  Email: davincicode.fatec@gmail.com
