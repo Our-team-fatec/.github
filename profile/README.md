@@ -66,6 +66,9 @@ Previsão de entrega das Sprints e relatótios:
 
 ## Ferramentas
 
+## Contato:
+ Email: davincicode.fatec@gmail.com
+
 ## Links Sprints:
  Figma Sprint1: https://www.figma.com/file/5Y1rDkJgN6eDZjF1CXkYpD/Experts-Treinamentos?t=IfTecud3dwPmwPve-1
  
