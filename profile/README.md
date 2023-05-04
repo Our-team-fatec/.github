@@ -53,19 +53,14 @@ Previsão de entrega das Sprints e relatótios:
 <div align="center">
 
 ![PRODUCTBACKLOG](https://github.com/Our-time-Fatec/.github/blob/main/profile/Product%20Backlog.jpeg)
+  
+## Épicos & User Stories
+
 ![ÉPICOS](https://github.com/Our-time-Fatec/.github/blob/main/profile/%C3%89picos.png)
 ![USER STORIES](https://github.com/Our-time-Fatec/.github/blob/main/profile/User%20Stories.png)
 </div>
 
 ## Épicos & User Stories
-| User Stories |                                                        Requisito          |  Referência                    |
-| :----------: | :------------------------------------------------------------------------ | :----------------------------: |
-| Eu como cliente quero um logo para representar minha empressa e ter credibilidade e visibilidade. | Criação do Logo | 1.1 |
-| Eu como usuário necessito de uma página intuitiva e sugestiva para focar no aprendizado. | Criação do wireframe | 1.2     |
-| Eu como cliente necessito da representação do layout do site (pelo Figma) para acompanhar o desenvolvimento. | Cricação do layout | 1.3 |
-| Eu como cliente necessito do conteúdo organizado e estruturado, para meus usuário terem um bom conteúdo | Organização do Conteúdo | 1.4 |
-
-
 
 <span id="tecnologias">
 
