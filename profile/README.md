@@ -56,7 +56,7 @@ Previsão de entrega das Sprints e relatótios:
 ## Épicos & User Stories
     
 ![ÉPICOS]((https://github.com/Our-time-Fatec/.github/blob/main/profile/%C3%89PICOS.png))
-![USER STORIES](https://github.com/Our-time-Fatec/.github/blob/main/profile/USER%20STORIES.png)
+![USER STORIES]((https://github.com/Our-time-Fatec/.github/blob/main/profile/USER%20STORIES.png))
 </div>
 
 <span id="tecnologias">
