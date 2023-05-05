@@ -51,7 +51,7 @@ Previsão de entrega das Sprints e relatótios:
 
 <div align="center">
 
-![PRODUCTBACKLOG](https://github.com/Our-time-Fatec/.github/blob/main/profile/Product%20Backlog.jpeg)
+![PRODUCTBACKLOG](https://github.com/Our-time-Fatec/.github/blob/main/profile/2.png)
 
 ## Épicos & User Stories
     
