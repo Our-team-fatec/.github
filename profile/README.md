@@ -26,7 +26,7 @@ Previsão de entrega das Sprints e relatótios:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 10/04/2023 | ✔️ Concluída    | [ver relatório](https://github.com/Our-time-Fatec/.github/blob/dd946b5199b44d6b2890b61308a7cc6b2624ebb8/profile/README.md) |
-| 02 | 08/05/2023 | ✔️ Concluída | [ver relatório](https://github.com/Our-time-Fatec/.github/blob/57267e23371405b19e98466772a517cdd384b16d/profile/README.md) |
+| 02 | 08/05/2023 | ✔️ Concluída | [ver relatório](https://github.com/Our-time-Fatec/.github/blob/38a3fbb3a3eb0844a95bbc1be8f8bcef3b33fde7/profile/README.md) |
 | 03 | 07/06/2023 | :x: Não Iniciado | [ver relatório](#) |
 <span id="equipe">
 
