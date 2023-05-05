@@ -173,6 +173,8 @@ Ampliar e melhorar ainda mais aspectos relacionados à responsividade e interati
  Link apresentação canvas sprint 1: https://www.canva.com/design/DAFfdnFwYAk/9Q1J9Q8bDL16iGqTR21eCw/view?utm_content=DAFfdnFwYAk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
  
  Link Burndown: https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184
+   
+ Web Site teste: https://our-time-fatec.github.io/expert-treinamentos/
 <!--
 
 
