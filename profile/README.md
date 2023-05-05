@@ -64,6 +64,12 @@ Previsão de entrega das Sprints e relatótios:
 <img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 
 <img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /> 
 <img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" />
+<img src="https://img.shields.io/badge/Bootstrap-CED4DA?style=for-the-badge&logo=bootstrap&logoColor=White" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Teams-CED4DA?style=for-the-badge&logo=microsoft%teams&logoColor=20232A" alt="Teams" />
+<img src="https://img.shields.io/badge/Canva-CED4DA?style=for-the-badge&logo=canva&logoColor=White" alt="Canva" />
+<img src="https://img.shields.io/badge/Gimp-CED4DA?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
+<img src="https://img.shields.io/badge/Word-CED4DA?style=for-the-badge&logo=microsoft-word&logoColor=2B579A" alt="Word" />
+<img src="https://img.shields.io/badge/Excel-CED4DA?style=for-the-badge&logo=microsoft-excel&logoColor=217346" alt="Excel" />
 
 ## Contato:
  Email: davincicode.fatec@gmail.com
