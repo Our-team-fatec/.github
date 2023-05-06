@@ -74,16 +74,14 @@ Previsão de entrega das Sprints e relatótios:
 ## Contato:
  Email: davincicode.fatec@gmail.com
 
-## Links Sprints:
- Figma Sprint1: https://www.figma.com/file/5Y1rDkJgN6eDZjF1CXkYpD/Experts-Treinamentos?t=IfTecud3dwPmwPve-1
- 
- Project video Figma: https://drive.google.com/file/d/1TMVT2nfUFfslZZY7b0FvGf46XYCuURsE/view
- 
- Apresentação canvas sprint 1: https://www.canva.com/design/DAFfdnFwYAk/9Q1J9Q8bDL16iGqTR21eCw/view?utm_content=DAFfdnFwYAk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
- 
- Burndown: https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184
- 
+## Links Sprint 2:
+
  Web Site teste: https://our-time-fatec.github.io/expert-treinamentos/
+
+ Apresentação canvas sprint 2:
+ 
+ Burndown: https://fatecspgov-my.sharepoint.com/:x:/g/personal/luiz_nascimento19_fatec_sp_gov_br/Ea-qpGaPdwhCqRdZkwCU3VkBO6QhnQXhUvk_J8Y_16WHPw?e=0iYnQ8
+
 
  <!--
 
