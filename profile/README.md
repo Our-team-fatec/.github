@@ -139,7 +139,7 @@ Em prol de um melhor aproveitamento das habilidades de cada integrante, as taref
 <div align="center">
 
 
-![BACKLOGS](https://github.com/Our-time-Fatec/.github/blob/c3b32329dc8350161ec5505b7dca4157d23e11c5/profile/burndown-chart.png)
+![BACKLOGS](https://github.com/Our-time-Fatec/.github/blob/b886ed760991dd520612cef0e54da47088692e08/profile/Burndown%20tabela.PNG?raw=true)
 </div>    
    
 
