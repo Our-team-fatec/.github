@@ -74,13 +74,7 @@ Previsão de entrega das Sprints e relatótios:
 ## Contato:
  Email: davincicode.fatec@gmail.com
 
-## Links Sprint 2:
-
- Web Site teste: https://our-time-fatec.github.io/expert-treinamentos/
-
- Apresentação canvas sprint 2:
- 
- Burndown: https://fatecspgov-my.sharepoint.com/:x:/g/personal/luiz_nascimento19_fatec_sp_gov_br/Ea-qpGaPdwhCqRdZkwCU3VkBO6QhnQXhUvk_J8Y_16WHPw?e=0iYnQ8
+## Links Web site teste:  https://our-time-fatec.github.io/expert-treinamentos/
 
 
  <!--
