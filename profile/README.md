@@ -67,10 +67,10 @@ Previsão de entrega das Sprints e relatótios:
 <a href="https://github.com/Our-time-Fatec"><img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /></a>
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-CED4DA?style=for-the-badge&logo=bootstrap&logoColor=White" alt="Bootstrap" /></a>
 <a href="https://www.microsoft.com/pt-br/microsoft-teams/log-in"><img src="https://img.shields.io/badge/Teams-CED4DA?style=for-the-badge&logo=microsoft%teams&logoColor=20232A" alt="Teams" /></a>
-<img src="https://img.shields.io/badge/Canva-CED4DA?style=for-the-badge&logo=canva&logoColor=White" alt="Canva" />
-<img src="https://img.shields.io/badge/Gimp-CED4DA?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" />
-<img src="https://img.shields.io/badge/Word-CED4DA?style=for-the-badge&logo=microsoft-word&logoColor=2B579A" alt="Word" />
-<img src="https://img.shields.io/badge/Excel-CED4DA?style=for-the-badge&logo=microsoft-excel&logoColor=217346" alt="Excel" />
+<a href="https://www.canva.com/pt_br/"><img src="https://img.shields.io/badge/Canva-CED4DA?style=for-the-badge&logo=canva&logoColor=White" alt="Canva" /></a>
+<a href="https://www.gimp.org/"><img src="https://img.shields.io/badge/Gimp-CED4DA?style=for-the-badge&logo=gimp&logoColor=FFFFFF" alt="Gimp" /></a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/word?activetab=tabs%3afaqheaderregion3"><img src="https://img.shields.io/badge/Word-CED4DA?style=for-the-badge&logo=microsoft-word&logoColor=2B579A" alt="Word" /></a>
+<a href="https://www.microsoft.com/pt-br/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-CED4DA?style=for-the-badge&logo=microsoft-excel&logoColor=217346" alt="Excel" /></a>
 
 ## Contato:
  Email: davincicode.fatec@gmail.com
