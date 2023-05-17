@@ -62,7 +62,7 @@ Previsão de entrega das Sprints e relatótios:
 ## Tecnologias
 <a href="https://www.figma.com/"><img src="https://img.shields.io/badge/Figma-CED4DA?style=for-the-badge&logo=figma&logoColor=DC143C" alt="Figma" /></a>
 <img src="https://img.shields.io/badge/HTML5-CED4DA?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML" /> 
-<img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /> 
+<a href="https://www.w3.org/standards/webdesign/htmlcss"><img src="https://img.shields.io/badge/CSS3-CED4DA?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS" /></a>
 <a href="https://code.visualstudio.com/"><img src="https://img.shields.io/badge/VS_Code-CED4DA?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4" alt="VS Code" /></a>
 <a href="https://github.com/Our-time-Fatec"><img src="https://img.shields.io/badge/GitHub-CED4DA?style=for-the-badge&logo=github&logoColor=20232A" alt="GitHub" /></a>
 <a href="https://getbootstrap.com/"><img src="https://img.shields.io/badge/Bootstrap-CED4DA?style=for-the-badge&logo=bootstrap&logoColor=White" alt="Bootstrap" /></a>
