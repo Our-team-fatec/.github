@@ -1,6 +1,6 @@
 <span id="topo">
    
-<h1 align="center">  Sprint 3: 08/05/2023 a /06/2023 </h1>
+<h1 align="center">  Sprint 3: 08/05/2023 a 06/06/2023 </h1>
 
 
 <p align="center">
@@ -13,16 +13,16 @@
 
 </p>
    
-O objetivo principal deste Sprint foi dar início ao processo de produção do site, ou seja, dar uma "cara" ao mesmo, tornando-o mais concreto.  Para isso, o grupo primeiramente dedicou-se a sua organização, dando inicialmente ênfase ao GitHub, tudo isso para melhorar a visibilidade, a organização, o autogerenciamento do trabalho e o monitoramento das ações, no processo de desenvolvimento do site.  
+O objetivo principal desta última Sprint foi concluir o desenvolvimento do site, corrigindo erros no processo e buscar soluções para algumas situações adversas observadas, como por exemplo, a demora na exibição dos slides do curso, pelo fato do arquivo estar pesado. Outro objetivo foi a realização de testes para confirmação do perfeito funcionamento do site. Novamente demos atenção ao GitHub, na atualização das informações, registro do gráfico Burndown e este readme, como relato das ações.  
 
 
-Seguindo os passos definidos pelo grupo, criamos conteúdo e material para os módulos do curso, levando em conta todo o conhecimento adquirido e repassado pelos desenvolvedores, sempre com foco na disseminação dos processos, para que os usuários possam replicar todos os passos em futuros desenvolvimentos. Com fins de avaliação parcial e final dos conteúdos disponibilizados, criamos jogos interativos para o final de cada módulo. Para a apresentação do segundo Sprint, em atendimento a um dos requisitos apresentados, decidimos por optar pela apresentação via GitHub.
+Seguindo os passos definidos em conjunto pelo grupo, concluímos os conteúdos, adaptando as apresentações para o formato de vídeo explicativo, com a gravação de áudio e inclusão dos vídeos no Youtube, de modo a torná-los mais leves. Concluímos os exercícios de fixação de cada módulo, dando aos mesmos uma característica mais lúdica, por meio de jogos criados no WordWall. 
 
 
 <span id="objetivos">
    
 ## :dart: Objetivos da Sprint
-Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint são:
+Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por essa sprint foram todos os apresentados anteriormente acrescidos de:
 - :heavy_check_mark: **RF 01:** Apresentação via GitHub;
 - :heavy_check_mark: **RF 02:** O sistema web deverá ser intuitivo e não ter poluições de informações.  Essa deverá ser uma preocupação constante dos desenvolvedores, sendo que sugestões de controles serão bem-vindas e bem avaliadas;
 - :heavy_check_mark: **RF 03:** Criar um sistema de avaliação (Processo, Produto e Conhecimento em disciplina, SM, PO, TD);
