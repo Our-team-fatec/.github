@@ -172,7 +172,7 @@ Ampliar e melhorar ainda mais aspectos relacionados à responsividade e interati
  
  Link apresentação canvas sprint 1: https://www.canva.com/design/DAFfdnFwYAk/9Q1J9Q8bDL16iGqTR21eCw/view?utm_content=DAFfdnFwYAk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1
  
- Link Burndown: [https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184](https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_nascimento19_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B66A4AAAF-778F-4208-A917-59930094DD59%7D&file=Gr%C3%A1fico%20Burndown%202%C2%B0%20Sprint.xlsx&action=default&mobileredirect=true)
+ Link Burndown: [https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184](https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_nascimento19_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B66A4AAAF-778F-4208-A917-59930094DD59%7D&file=Gr%C3%A1fico%20Burndown%202%C2%B0%20Sprint.xlsx&action=default&mobileredirect=true)](https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_nascimento19_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B65DB54DF-7BF5-4437-B35D-792E138384D3%7D&file=Gr%C3%A1fico%20Burndown%203%C2%B0%20Sprint.xlsx&action=default&mobileredirect=true)
    
  Web Site teste: https://our-time-fatec.github.io/expert-treinamentos/
 <!--
