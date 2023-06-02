@@ -76,7 +76,7 @@ Previsão de entrega das Sprints e relatótios:
 ## Contato:
  Email: davincicode.fatec@gmail.com
 
-## Links Web site teste: https://expert-treinamentos.netlify.app/ ou https://our-time-fatec.github.io/expert-treinamentos/
+## Links Web site teste: https://expert-treinamentos.vercel.app/
 
 
  <!--
