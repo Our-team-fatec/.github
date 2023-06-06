@@ -5,7 +5,8 @@
     <a href="#sobre">Sobre</a>  |  
     <a href="#backlogs">Backlogs, Épicos & User Stories</a>  |  
     <a href="#tecnologias">Tecnologias</a>  |  
-    <a href="#equipe">Equipe</a>
+    <a href="#equipe">Equipe</a> | 
+    <a href="#entrega">Entrega Final</a>
 </p>
    
 <span id="sobre">
@@ -73,6 +74,13 @@ Previsão de entrega das Sprints e relatótios:
 <a href="https://www.microsoft.com/pt-br/microsoft-365/word?activetab=tabs%3afaqheaderregion3"><img src="https://img.shields.io/badge/Word-CED4DA?style=for-the-badge&logo=microsoft-word&logoColor=2B579A" alt="Word" /></a>
 <a href="https://www.microsoft.com/pt-br/microsoft-365/excel"><img src="https://img.shields.io/badge/Excel-CED4DA?style=for-the-badge&logo=microsoft-excel&logoColor=217346" alt="Excel" /></a>
 
+    
+<span id="entrega">
+    
+## Entrega Final
+
+ 
+    
 ## Contato:
  Email: davincicode.fatec@gmail.com
 
