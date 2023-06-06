@@ -87,8 +87,7 @@ Previsão de entrega das Sprints e relatótios:
 ![PARTE4](https://github.com/Our-time-Fatec/.github/blob/main/profile/gif04.gif)  
 ![PARTE5](https://github.com/Our-time-Fatec/.github/blob/main/profile/gif05.gif)
 ![PARTE6](https://github.com/Our-time-Fatec/.github/blob/main/profile/gif06.gif)
-
-    </div>    
+</div>    
     
 ## Contato:
  Email: davincicode.fatec@gmail.com
