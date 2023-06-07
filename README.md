@@ -1,6 +1,6 @@
 <span id="topo">
    
-<h1 align="center">  Sprint 3: 08/05/2023 a 06/06/2023 </h1>
+<h1 align="center">  Sprint 3: 05/08/2023 <h/1>
 
 
 <p align="center">
@@ -36,11 +36,11 @@ Os requisitos (tanto do cliente como da instituição de ensino) abrangidos por 
 - :heavy_check_mark: **RF 11:** Dailys;
 - :heavy_check_mark: **RF 12:** Retrospective;
 - :heavy_check_mark: **RF 13:** DOR – Definition of Ready;
--: heavy  check  mark: **RF 14:** DOD – Definition of Done;
--: heavy  check  mark: **RF 15:** Planning Poker;
-- :heavy_check_mark: **RF 16:** Kanban;
+-  :heavy_check_mark: **RF 14:** DOD - Definição de Feito;
+- :heavy_check_mark: **RF 15:**  Planning Poker;
+- :heavy_check_mark: **RF 16:** Kanban
 - :heavy_check_mark: **RF 17:** Artefatos do Scrum;
-- :heavy  check  mark:  **RF18:** MVP  
+- :heavy_check_mark: **RF 18:** MVP
 - :heavy_check_mark: **RNF 01:** Documentação no GitHub;
 - :heavy_check_mark: **RNF 02:** Linguagem de programação JavaScript;
 - :heavy_check_mark: **RNF 03:** Linguagem de marcação HTML e estilos CSS;
