@@ -220,7 +220,6 @@ Link dos exercícios de fixação no WordWall: Módulo 1 –https://wordwall.net
 		
  Link do Web Site do produto final:         https://expert-treinamentos.vercel.app/index.html
 
-<!--
 
 
 
