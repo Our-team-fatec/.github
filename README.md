@@ -1,6 +1,6 @@
 <span id="topo">
    
-<h1 align="center">  Sprint 3: 05/08/2023 <h/1>
+<h1 align="center">  Sprint 3: 08/05/2023 a 07/06/2023 <h/1>
 
 
 <p align="center">
@@ -63,9 +63,11 @@ Este requisito se trata do uso do repositório GitHub para a apresentação do d
    
 - 🧷 **RF 02:** O sistema web deverá ser intuitivo e não ter poluições de informações.  Essa deverá ser uma preocupação constante dos desenvolvedores, sendo que sugestões de controles serão bem-vindas e bem avaliadas
 
-
 Este requisito trata da adoção de um estilo “clean” para o site, de forma a tornar sua navegação simples e intuitiva.
 
+- 🧷 **RF 03:**  Criar um sistema de avaliação (Processo, Produto e Conhecimento em disciplina, SM., PO.,TD);
+
+Este requisito trata da criação de um sistema de avaliação, no caso, criamos exercícios de fixação e um formulário em html com certificação final, caso aprovado.
 
 - 🧷 **RF 04:**  Processo Scrum
 
@@ -96,6 +98,9 @@ Este requisito trata da divisão de tempo adotada. Cada período, de aproximadam
 
 Este requisito trata da adoção de um planejamento de tarefas (tasks) a serem definidos e cumpridos em cada sprint, de forma a facilitar que os objetivos sejam atingidos.
 
+- 🧷 **RF 09:**  Sprint Review
+
+Este requisito trata do evento do Scrum que acontece no último dia da Sprint e tem como objetivo a inspeção do Incremento de Produto desenvolvido na Sprint e adaptação do Product Backlog caso necessário. Por se tratar da última Sprint, não houve adaptação do Product Backlog.
 
 - 🧷 **RF 10:** Sprint Backlog
 
@@ -213,12 +218,15 @@ Concordamos que o resultado foi muito positivo: o desafio foi grande e exigiu mu
  Link Burndown: [https://docs.google.com/spreadsheets/d/1BwbC_aLUGNTbEHJXKJUmfBc6pzSKZer2JlLW2PavMWw/edit#gid=1120170184](https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_nascimento19_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B66A4AAAF-778F-4208-A917-59930094DD59%7D&file=Gr%C3%A1fico%20Burndown%202%C2%B0%20Sprint.xlsx&action=default&mobileredirect=true)](https://fatecspgov-my.sharepoint.com/:x:/r/personal/luiz_nascimento19_fatec_sp_gov_br/_layouts/15/Doc.aspx?sourcedoc=%7B65DB54DF-7BF5-4437-B35D-792E138384D3%7D&file=Gr%C3%A1fico%20Burndown%203%C2%B0%20Sprint.xlsx&action=default&mobileredirect=true)
    
  Web Site teste: https://our-time-fatec.github.io/expert-treinamentos/
-<!--
+
  Link dos vídeos no YouTube:                          Módulo 1 - https://youtu.be/kG2qUC2OP4E ;  Módulo 2 - https://youtu.be/FhOF-K7QmDA  ;  Módulo 3 - https://youtu.be/jML2f0Ccv1M
 
 Link dos exercícios de fixação no WordWall: Módulo 1 –https://wordwall.net/resource/ 55771354;                                                                     Módulo 2 – https://wordwall.net/pt/resource/56975524 ; Módulo 3 - https://wordwall.net/pt/resource/57023880
 		
  Link do Web Site do produto final:         https://expert-treinamentos.vercel.app/index.html
+
+
+
 
 
 
