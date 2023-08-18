@@ -17,7 +17,7 @@ Nos foi apresentado um desafio pelo cliente Antônio Egydio, para desenvolviment
 
 > _Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos_
 
-:pushpin: Status do Projeto: Em Andamento
+:pushpin: Status do Projeto: Concluído
 
 ## Objetivo do Projeto:
 <p>Com a finalidade de apresentar o Scrum de maneira simples e intuitiva vamos elaborar um modelo a ser seguido, com explicações e interatividades para nossos alunos.</p> 
