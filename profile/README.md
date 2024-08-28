@@ -10,6 +10,8 @@ Equipe formada para desenvolvimento das APIs (Aprendizagem por Projetos Integrad
 | 2º SEM   | Bicicreta | [Gen Apps](http://genapps.com.br/) | Desenvolvimento de um site para aluguel de bicicletas, com o intúito de unir quem têm uma bicicleta e quer alugá-la, com quem não tem e gostaria de idquirir uma, com segurança e eficássia. | [API 2](https://github.com/Our-time-Fatec/API-2023_2-Documentacao)|
 | 3º SEM   | Vintura | [Visiona Espacial](https://visionaespacial.com/) | Desenvolvimento de um site para poder checar o andamento dos projetos | [API 3](https://github.com/Our-time-Fatec/API-2024_1-Documentacao)|
 
+| 4º SEM   | Da Vinci Care | [FATEC Jacareí]| Desenvolvimento de um site para poder checar o andamento dos projetos | [API 4](https://github.com/Our-time-Fatec/API-2024_2-Documentacao)|
+
 <div align="center">
 
 ## Equipe
@@ -19,7 +21,7 @@ Equipe formada para desenvolvimento das APIs (Aprendizagem por Projetos Integrad
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aliceujunior/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/AliceuJunior)            | Aliceu Donizete F. Junior    | Product Owner |
 |           [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/andreluke)               | André Lucas de A. Sales      | Dev Team      |
 |             [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-santana-592621263/) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/diogosfc)              | Diogo Santana F. Carneiro    | Dev Team      |
-|         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/larissa-candido-70b199298) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/larissaxyz)           | Larissa Emanuelle Barbosa Candido        | Dev Team      |
-|      [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasRbnc)              | Lucas Roberto M. Nascimento  | Scrum Master     |
+|         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/larissa-candido-70b199298](https://www.linkedin.com/in/lucascostadwn/)) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasdwn)           | Lucas Costa        | Scrum Master      |
+|      [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](#) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasRbnc)              | Lucas Roberto M. Nascimento  | Dev Team     |
 |         [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-nascimento-4404b6119) [![GitHub](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MuriloGGSilva)           | Murilo Gomes da Silva        | Dev Team      |
 
