@@ -10,6 +10,7 @@ Equipe formada para desenvolvimento das APIs (Aprendizagem por Projetos Integrad
 | 2º SEM   | Bicicreta | [Gen Apps](http://genapps.com.br/) | Desenvolvimento de um site para aluguel de bicicletas, com o intúito de unir quem têm uma bicicleta e quer alugá-la, com quem não tem e gostaria de idquirir uma, com segurança e eficássia. | [API 2](https://github.com/Our-time-Fatec/API-2023_2-Documentacao)|
 | 3º SEM   | Vintura | [Visiona Espacial](https://visionaespacial.com/) | Desenvolvimento de um site para poder checar o andamento dos projetos | [API 3](https://github.com/Our-time-Fatec/API-2024_1-Documentacao)|
 | 4º SEM   | Da Vinci Care | FATEC Jacareí| Desenvolvimento de um Aplicativo para acompanhar as dietas e metas caloricas do usuário | [API 4](https://github.com/Our-time-Fatec/API-2024_2-Documentacao)|
+| 5º SEM   | Visiona | [Visiona Espacial](https://visionaespacial.com/) | Desenvolvimento de aplicações móvel e web para mapeamento automático de cicatrizes de queimadas em imagens do sensor WFI | [API 5](https://github.com/Our-time-Fatec/API-2025_1-Documentacao)|
 
 <div align="center">
 
