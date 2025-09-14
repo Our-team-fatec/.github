@@ -11,7 +11,7 @@ Equipe formada para desenvolvimento das APIs (Aprendizagem por Projetos Integrad
 | 3º SEM   | Vintura | [Visiona Espacial](https://visionaespacial.com/) | Desenvolvimento de um site para poder checar o andamento dos projetos | [ABP 3](https://github.com/Our-time-Fatec/API-2024_1-Documentacao)|
 | 4º SEM   | Da Vinci Care | FATEC Jacareí| Desenvolvimento de um Aplicativo para acompanhar as dietas e metas caloricas do usuário | [ABP 4](https://github.com/Our-time-Fatec/API-2024_2-Documentacao)|
 | 5º SEM   | Scar | [Visiona Espacial](https://visionaespacial.com/) | Desenvolvimento de aplicação web para mapeamento automático de cicatrizes de queimadas em imagens do sensor WFI | [ABP 5](https://github.com/Our-time-Fatec/API-2025_1-Documentacao)|
-| 6º SEM   | SuperPet App | FATEC Jacareí | Desenvolvimento de aplicações móvel para comunidade PET - Adoções, Saúde e bem estar pet | [ABP 6](https://github.com/Our-team-fatec/ABP-2025_2-Documentacao)|
+| 6º SEM   | Da Vinci Pets | FATEC Jacareí | Desenvolvimento de aplicações móvel para comunidade PET - Adoções, Saúde e bem estar pet | [ABP 6](https://github.com/Our-team-fatec/ABP-2025_2-Documentacao)|
 
 <div align="center">
 
